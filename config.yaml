@@ -9,7 +9,7 @@ pygmentsCodeFences: yes
 pygmentsCodeFencesGuessSyntax: yes
 enableEmoji: yes
 params:
-  author: John Doe
+  author: Mujtaba Brohi
   avatarURL: images/avatar.jpg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
@@ -41,7 +41,7 @@ params:
   customJS: []
   customSCSS: []
   dateFormat: January 2, 2006
-  description: John Doe's personal website
+  description: Mujtaba Brohi's personal website
   hideColorSchemeToggle: no
   info:
     - Full Stack DevOps
@@ -53,23 +53,15 @@ params:
   social:
     - icon: fa fa-2x fa-github
       name: Github
-      url: https://github.com/johndoe/
+      url: https://github.com/mujtababrohi1
       weight: 1
-    - icon: fa fa-2x fa-gitlab
-      name: Gitlab
-      url: https://gitlab.com/johndoe/
-      weight: 2
-    - icon: fa fa-2x fa-twitter
-      name: Twitter
-      url: https://twitter.com/johndoe/
-      weight: 3
     - icon: fa fa-2x fa-linkedin
       name: LinkedIn
-      url: https://www.linkedin.com/in/johndoe/
+      url: https://au.linkedin.com/in/mujtababrohi
       weight: 4
     - icon: fa fa-2x fa-medium
       name: Medium
-      url: https://medium.com/@johndoe
+      url: https://mujtababrohi.medium.com/
       weight: 5
     - icon: fa fa-2x fa-rss
       name: RSS
@@ -120,4 +112,4 @@ languages:
       description: Sítio pessoal de João Ninguém
       info: Full Stack DevOps e Mágico
       keywords: blog,desenvolvedor,pessoal
-    title: João Ninguém
+    title: Mujtaba Brohi
