@@ -1,5 +1,5 @@
 baseURL: http://www.example.com
-title: johndoe
+title: Mujtaba Brohi
 theme: hugo-coder
 languageCode: en
 defaultContentLanguage: en
@@ -44,8 +44,7 @@ params:
   description: Mujtaba Brohi's personal website
   hideColorSchemeToggle: no
   info:
-    - Full Stack DevOps
-    - Magician
+    - Graduate Business Analyst
   keywords: blog,developer,personal
   maxSeeAlsoItems: 5
   rtl: no
@@ -108,8 +107,4 @@ languages:
           url: contact/
           weight: 5
     params:
-      author: João Ninguém
-      description: Sítio pessoal de João Ninguém
-      info: Full Stack DevOps e Mágico
-      keywords: blog,desenvolvedor,pessoal
     title: Mujtaba Brohi
